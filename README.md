@@ -3,8 +3,8 @@
 > Néphélées (Νεφήλαι, Nephḗlai) : cloud nymphs greek - also a NTDS cracking tool abusing Google Colab 
 
 <p align="center">
-  <img src="https://github.com/techanvconsulting/Nephelees/raw/main/img/logo.jpg?raw=true"><br>
-  <a href="https://colab.research.google.com/github/techanvconsulting/Nephelees/blob/main/google_colab_hashcat.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  <img src="https://github.com/techanv-bot/Nephelees/raw/main/img/logo.jpg?raw=true"><br>
+  <a href="https://colab.research.google.com/github/techanv-bot/Nephelees/blob/main/google_colab_hashcat.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </p>
 
 
